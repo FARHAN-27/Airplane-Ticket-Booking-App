@@ -179,18 +179,18 @@ class LocaleKeys {
 
 class Locales {
   static const id_ID = {
-    'aboutLombok':
-        'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach. ',
-    'attractionLombok1': 'Gunung',
-    'attractionLombok2': 'Gili',
-    'attractionLombok3': 'Bukit',
-    'attractionLombok4': 'Pantai',
-    'aboutBandung':
-        'Bandung merupakan salah satu kota bersejarah di Indonesia. Kota berjuluk Paris van Java ini memiliki segudang destinasi wisata yang layak untuk dikunjungi, seperti Kawah Putih Ciwidey, Desa Dago hingga Lembang.',
-    'attractionBandung1': 'Kawah Putih Ciwidey',
-    'attractionBandung2': 'Lembang',
-    'attractionBandung3': 'Desa Dago',
-    'attractionBandung4': 'Pusat Perbelanjaan',
+    'aboutCoxs':
+    'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach. ',
+    'attractionCoxs1': 'Inani Beach',
+    'attractionCoxs2': 'Himchori Mountain',
+    'attractionCoxs3': 'Marine Drive',
+    'attractionCoxs4': 'Bangabandhu Safari Park',
+    'aboutKuakata':
+        'Nestled on the southernmost tip of Bangladesh, Kuakata emerges as a breathtaking panorama, boasting a 30-kilometer-long stretch of sandy beach where the sun gracefully rises and sets over the Bay of Bengal.This coastal gem, situated approximately 320 kilometers south of the bustling capital city of Dhaka, invites travelers to witness natures spectacle from its shores .',
+    'attractionKuakata1': 'Kuakata Sea Beach',
+    'attractionKuakata2': 'Jhau Forest',
+    'attractionKuakata3': 'Gangamati Forest',
+    'attractionKuakata4': 'Fatrar Char',
     'aboutYogyakarta':
         'Daerah Istimewa Yogyakarta terletak di bagian selatan pulau Jawa, berbatasan dengan provinsi Jawa Tengah. Daya tarik kota ini bisa dikatakan terbagi menjadi tiga, wisata keraton, belanja batik, dan wisata kuliner.',
     'attractionYogyakarta1': 'Jalan Malioboro',
@@ -361,18 +361,18 @@ class Locales {
         'Aplikasi Ini Diblokir Untuk Anda Karena Perangkat Anda Telah Di-Root',
   };
   static const en_US = {
-    'aboutLombok':
-        'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach.',
-    'attractionLombok1': 'Rinjani',
-    'attractionLombok2': 'Gili',
-    'attractionLombok3': 'Merese',
-    'attractionLombok4': 'Senggigi',
-    'aboutBandung':
-        'Bandung is one of the historical cities in Indonesia. The city nicknamed Paris van Java has a myriad of tourist destinations worth visiting, such as the Ciwidey White Crater, Dago Village to Lembang.',
-    'attractionBandung1': 'Ciwidey White Crater',
-    'attractionBandung2': 'Lembang',
-    'attractionBandung3': 'Dago Village',
-    'attractionBandung4': 'Shopping Center',
+    'aboutCoxs':
+    'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach. ',
+    'attractionCoxs1': 'Inani Beach',
+    'attractionCoxs2': 'Himchori Mountain',
+    'attractionCoxs3': 'Marine Drive',
+    'attractionCoxs4': 'Safari Park',
+    'aboutKuakata':
+    'Nestled on the southernmost tip of Bangladesh, Kuakata emerges as a breathtaking panorama, boasting a 30-kilometer-long stretch of sandy beach where the sun gracefully rises and sets over the Bay of Bengal.This coastal gem, situated approximately 320 kilometers south of the bustling capital city of Dhaka, invites travelers to witness natures spectacle from its shores .',
+    'attractionKuakata1': 'Kuakata Sea Beach',
+    'attractionKuakata2': 'Jhau Forest',
+    'attractionKuakata3': 'Gangamati Forest',
+    'attractionKuakata4': 'Fatrar Char',
     'aboutYogyakarta':
         'The Special Region of Yogyakarta is located in the southern part of the island of Java, bordering the province of Central Java. The attractions of this city can be said to be divided into three, palace tours, batik shopping, and culinary tours.',
     'attractionYogyakarta1': 'Malioboro Street',
