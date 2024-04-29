@@ -180,11 +180,11 @@ class LocaleKeys {
 class Locales {
   static const id_ID = {
     'aboutLombok':
-        'Berada di provinsi Nusa Tenggara Barat dan merupakan salah satu pulau yang memiliki beragam wisata terutama dengan kekayaan alamnya yang menakjubkan di Indonesia, mulai dari wisata Gunung Rinjani, Gili Trawangan, dan masih banyak pantai dengan berbagai macam keindahannya.',
-    'attractionLombok1': 'Gunung Rinjani',
-    'attractionLombok2': 'Gili Trawangan',
-    'attractionLombok3': 'Bukit Merese',
-    'attractionLombok4': 'Pantai Senggigi',
+        'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach. ',
+    'attractionLombok1': 'Gunung',
+    'attractionLombok2': 'Gili',
+    'attractionLombok3': 'Bukit',
+    'attractionLombok4': 'Pantai',
     'aboutBandung':
         'Bandung merupakan salah satu kota bersejarah di Indonesia. Kota berjuluk Paris van Java ini memiliki segudang destinasi wisata yang layak untuk dikunjungi, seperti Kawah Putih Ciwidey, Desa Dago hingga Lembang.',
     'attractionBandung1': 'Kawah Putih Ciwidey',
@@ -362,11 +362,11 @@ class Locales {
   };
   static const en_US = {
     'aboutLombok':
-        'Located in the province of West Nusa Tenggara and is one of the islands that has a variety of tours, especially with its amazing natural wealth in Indonesia, starting from tours of Mount Rinjani, Gili Trawangan, and there are still many beaches with various kinds of beauty.',
-    'attractionLombok1': 'Rinjani Mountain',
-    'attractionLombok2': 'Gili Trawangan',
-    'attractionLombok3': 'Merese Hill',
-    'attractionLombok4': 'Senggigi Beach',
+        'Coxs Bazar, located in southeastern Bangladesh, is renowned for its expansive sandy beach, stretching over 120 kilometers along the Bay of Bengal. With its picturesque landscapes, it holds the title of the worlds longest natural sandy sea beach. Beyond its stunning shoreline, Coxs Bazar offers a vibrant cultural tapestry, blending influences from Bengali, Rohingya, and Chakma communities. Visitors can explore attractions like Himchari National Park with its lush greenery and waterfalls or experience the tranquility of Inani Beach.',
+    'attractionLombok1': 'Rinjani',
+    'attractionLombok2': 'Gili',
+    'attractionLombok3': 'Merese',
+    'attractionLombok4': 'Senggigi',
     'aboutBandung':
         'Bandung is one of the historical cities in Indonesia. The city nicknamed Paris van Java has a myriad of tourist destinations worth visiting, such as the Ciwidey White Crater, Dago Village to Lembang.',
     'attractionBandung1': 'Ciwidey White Crater',
