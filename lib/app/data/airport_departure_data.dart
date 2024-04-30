@@ -120,3 +120,127 @@ const List<Map<String, dynamic>> airportDepartureData = [
     'location': 'Papua',
   }
 ];
+
+
+// const List<Map<String, dynamic>> airportDepartureData = [
+//   {
+//     'code': 'dac',
+//     'name': 'Shahjalal International Airport',
+//     'location': 'Dhaka',
+//   },
+//   {
+//     'code': 'cgp',
+//     'name': 'Shah Amanat International Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'jsc',
+//     'name': 'Jessore Airport',
+//     'location': 'Jessore',
+//   },
+//   {
+//     'code': 'rjsh',
+//     'name': 'Rajshahi Airport',
+//     'location': 'Rajshahi',
+//   },
+//   {
+//     'code': 'spd',
+//     'name': 'Saidpur Airport',
+//     'location': 'Saidpur',
+//   },
+//   {
+//     'code': 'cox',
+//     'name': 'Cox\'s Bazar Airport',
+//     'location': 'Cox\'s Bazar',
+//   },
+//   {
+//     'code': 'zyl',
+//     'name': 'Osmani International Airport',
+//     'location': 'Sylhet',
+//   },
+//   {
+//     'code': 'pbh',
+//     'name': 'Shah Makhdum Airport',
+//     'location': 'Rajshahi',
+//   },
+//   {
+//     'code': 'raj',
+//     'name': 'Rangpur Airport',
+//     'location': 'Rangpur',
+//   },
+//   {
+//     'code': 'cgp',
+//     'name': 'Chittagong Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'zrh',
+//     'name': 'Zia International Airport',
+//     'location': 'Dhaka',
+//   },
+//   {
+//     'code': 'bar',
+//     'name': 'Barisal Airport',
+//     'location': 'Barisal',
+//   },
+//   {
+//     'code': 'pgq',
+//     'name': 'Potenga Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'qxq',
+//     'name': 'Pattenga Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'dwl',
+//     'name': 'Dhaka Tejgaon Airport',
+//     'location': 'Dhaka',
+//   },
+//   {
+//     'code': 'jsr',
+//     'name': 'Jessore Airport',
+//     'location': 'Jessore',
+//   },
+//   {
+//     'code': 'cgf',
+//     'name': 'Chittagong Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'hsa',
+//     'name': 'Husain Saheed Suhrawardy Airport',
+//     'location': 'Dhaka',
+//   },
+//   {
+//     'code': 'but',
+//     'name': 'Bogra Airport',
+//     'location': 'Bogra',
+//   },
+//   {
+//     'code': 'syl',
+//     'name': 'Sylhet Airport',
+//     'location': 'Sylhet',
+//   },
+//   {
+//     'code': 'jes',
+//     'name': 'Jessore Airport',
+//     'location': 'Jessore',
+//   },
+//   {
+//     'code': 'pat',
+//     'name': 'Patenga Airport',
+//     'location': 'Chittagong',
+//   },
+//   {
+//     'code': 'qow',
+//     'name': 'Dhaka Airport',
+//     'location': 'Dhaka',
+//   },
+//   {
+//     'code': 'ran',
+//     'name': 'Rangpur Airport',
+//     'location': 'Rangpur',
+//   },
+// ];
