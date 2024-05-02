@@ -14,22 +14,22 @@ class AppAsset {
   static String logoAirline(String airlineCode) {
     if (airlineCode.contains('QZ')) {
       return 'assets/logos/logo_air_asia.png';
-    } else if (airlineCode.contains('ID')) {
-      return 'assets/logos/logo_batik_air.png';
-    } else if (airlineCode.contains('QG')) {
-      return 'assets/logos/logo_citilink.png';
-    } else if (airlineCode.contains('GA')) {
-      return 'assets/logos/logo_garuda_indonesia.png';
-    } else if (airlineCode.contains('JT')) {
-      return 'assets/logos/logo_lion_air.png';
-    } else if (airlineCode.contains('SJ')) {
-      return 'assets/logos/logo_sriwijaya_air.png';
-    } else if (airlineCode.contains('IU')) {
-      return 'assets/logos/logo_super_air_jet.png';
-    } else if (airlineCode.contains('IW')) {
-      return 'assets/logos/logo_wings_air.png';
+    } else if (airlineCode.contains('AWA')) {
+      return 'assets/logos/logo_air_astra.png';
+    } else if (airlineCode.contains('BL')) {
+      return 'assets/logos/logo_bengal_airlift.png';
+    } else if (airlineCode.contains('CX')) {
+      return 'assets/logos/logo_cathay_pacific.png';
+    } else if (airlineCode.contains('BG')) {
+      return 'assets/logos/logo_biman_bangladesh_air.png';
+    } else if (airlineCode.contains('NV')) {
+      return 'assets/logos/logo_novo_air.png';
+    } else if (airlineCode.contains('UBG')) {
+      return 'assets/logos/logo_us_bangla.png';
+    } else if (airlineCode.contains('RGE')) {
+      return 'assets/logos/logo_regent_airways.png';
     } else {
-      return 'assets/logos/logo_garuda_indonesia.png';
+      return 'assets/logos/logo_cathay_pacific.png';
     }
   }
 }
