@@ -20,7 +20,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -37,7 +37,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -54,7 +54,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -71,7 +71,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
     ],
@@ -91,7 +91,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 800000,
+        'price': 8000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -108,7 +108,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 850000,
+        'price': 8500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -125,7 +125,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 960000,
+        'price': 9600,
         'benefit': ['benefit1'.tr],
       },
     ],
@@ -145,7 +145,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -162,7 +162,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 960000,
+        'price': 9600,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -182,7 +182,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -202,7 +202,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
     ],
@@ -222,7 +222,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr],
       },
     ],
@@ -242,7 +242,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3600000,
+        'price': 3600,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
     ],
@@ -262,7 +262,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -279,7 +279,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -296,7 +296,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -313,7 +313,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
     ],
@@ -333,7 +333,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6200000,
+        'price': 6200,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
     ],
@@ -353,7 +353,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -370,7 +370,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -387,7 +387,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
     ],
@@ -407,7 +407,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -424,7 +424,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
     ],
@@ -444,7 +444,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -461,7 +461,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
     ],
@@ -481,7 +481,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -501,7 +501,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -521,7 +521,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['Baggage not included'],
       },
       {
@@ -538,7 +538,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -555,7 +555,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -572,7 +572,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -592,7 +592,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -609,7 +609,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -626,7 +626,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -646,7 +646,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -663,7 +663,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -683,7 +683,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -700,7 +700,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -717,7 +717,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -734,7 +734,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
     ],
@@ -754,7 +754,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -774,7 +774,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -791,7 +791,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -808,7 +808,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -828,7 +828,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -845,7 +845,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -862,7 +862,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4800000,
+        'price': 4800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -882,7 +882,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3150000,
+        'price': 31500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -902,7 +902,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -919,7 +919,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7100000,
+        'price': 7100,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -942,7 +942,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -959,7 +959,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -979,7 +979,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['Baggage not included'],
       },
       {
@@ -996,7 +996,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1016,7 +1016,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1036,7 +1036,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -1056,7 +1056,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5400000,
+        'price': 5400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -1076,7 +1076,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1600000,
+        'price': 1600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1093,7 +1093,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1113,7 +1113,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1133,7 +1133,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -1153,7 +1153,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1173,7 +1173,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1193,7 +1193,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1213,7 +1213,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4200000,
+        'price': 4200,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1233,7 +1233,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1253,7 +1253,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1270,7 +1270,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1290,7 +1290,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1307,7 +1307,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1327,7 +1327,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1347,7 +1347,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1364,7 +1364,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1384,7 +1384,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1404,7 +1404,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1424,7 +1424,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1444,7 +1444,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1464,7 +1464,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1484,7 +1484,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4700000,
+        'price': 4700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1501,7 +1501,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1524,7 +1524,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1541,7 +1541,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -1561,7 +1561,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -1581,7 +1581,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 500000,
+        'price': 500,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -1601,7 +1601,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['Baggage not included'],
       },
       {
@@ -1618,7 +1618,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -1638,7 +1638,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -1658,7 +1658,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1678,7 +1678,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1698,7 +1698,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1718,7 +1718,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1738,7 +1738,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1758,7 +1758,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1778,7 +1778,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1798,7 +1798,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -1818,7 +1818,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1835,7 +1835,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1855,7 +1855,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1875,7 +1875,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1895,7 +1895,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1912,7 +1912,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1932,7 +1932,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1952,7 +1952,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3190000,
+        'price': 31900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -1972,7 +1972,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -1989,7 +1989,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2009,7 +2009,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2029,7 +2029,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2049,7 +2049,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -2072,7 +2072,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 900000,
+        'price': 900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2089,7 +2089,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 900000,
+        'price': 900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2106,7 +2106,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 950000,
+        'price': 9500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2123,7 +2123,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2140,7 +2140,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2160,7 +2160,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2177,7 +2177,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2197,7 +2197,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -2217,7 +2217,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['Baggage not included'],
       },
       {
@@ -2234,7 +2234,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -2254,7 +2254,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2272,7 +2272,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2289,7 +2289,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -2309,7 +2309,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2326,7 +2326,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -2343,7 +2343,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -2363,7 +2363,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2380,7 +2380,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2397,7 +2397,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2150000,
+        'price': 21500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2417,7 +2417,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2434,7 +2434,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -2454,7 +2454,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -2471,7 +2471,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2488,7 +2488,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2508,7 +2508,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -2525,7 +2525,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2542,7 +2542,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2562,7 +2562,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2579,7 +2579,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2596,7 +2596,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2616,7 +2616,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2633,7 +2633,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2650,7 +2650,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -2670,7 +2670,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2687,7 +2687,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2707,7 +2707,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 600000,
+        'price': 600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2724,7 +2724,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 680000,
+        'price': 6800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2744,7 +2744,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 800000,
+        'price': 800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2761,7 +2761,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 830000,
+        'price': 8300,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2781,7 +2781,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1750000,
+        'price': 17500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2798,7 +2798,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1750000,
+        'price': 17500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2818,7 +2818,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2835,7 +2835,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2855,7 +2855,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2872,7 +2872,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -2892,7 +2892,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2909,7 +2909,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2946,7 +2946,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -2966,7 +2966,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2150000,
+        'price': 21500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -2983,7 +2983,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -3003,7 +3003,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3020,7 +3020,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -3040,7 +3040,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3057,7 +3057,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -3080,7 +3080,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1030000,
+        'price': 10300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3097,7 +3097,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1080000,
+        'price': 10800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3114,7 +3114,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1080000,
+        'price': 10800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3131,7 +3131,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1080000,
+        'price': 10800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3148,7 +3148,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1080000,
+        'price': 10800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3165,7 +3165,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1090000,
+        'price': 10900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3182,7 +3182,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1090000,
+        'price': 10900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3199,7 +3199,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1140000,
+        'price': 11400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3216,7 +3216,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1140000,
+        'price': 11400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3233,7 +3233,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -3250,7 +3250,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -3267,7 +3267,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3321,7 +3321,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1030000,
+        'price': 10300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3338,7 +3338,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1050000,
+        'price': 10500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3358,7 +3358,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3375,7 +3375,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['Baggage not included'],
       },
       {
@@ -3392,7 +3392,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'Entetainment'],
       }
     ],
@@ -3412,7 +3412,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3050000,
+        'price': 30500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3429,7 +3429,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3050000,
+        'price': 30500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3446,7 +3446,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3250000,
+        'price': 32500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3466,7 +3466,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3483,7 +3483,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2650000,
+        'price': 26500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -3500,7 +3500,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3520,7 +3520,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3537,7 +3537,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3554,7 +3554,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3571,7 +3571,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3588,7 +3588,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3605,7 +3605,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -3625,7 +3625,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3642,7 +3642,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3659,7 +3659,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3676,7 +3676,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1600000,
+        'price': 1600,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3696,7 +3696,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3713,7 +3713,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1750000,
+        'price': 17500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3733,7 +3733,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3750,7 +3750,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3767,7 +3767,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3784,7 +3784,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1490000,
+        'price': 14900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -3804,7 +3804,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3821,7 +3821,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3838,7 +3838,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3855,7 +3855,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -3875,7 +3875,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 880000,
+        'price': 8800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3892,7 +3892,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 880000,
+        'price': 8800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3960,7 +3960,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -3980,7 +3980,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -3997,7 +3997,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4014,7 +4014,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4031,7 +4031,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4051,7 +4051,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 980000,
+        'price': 9800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4068,7 +4068,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 850000,
+        'price': 8500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4085,7 +4085,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 840000,
+        'price': 8400,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -4105,7 +4105,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1320000,
+        'price': 13200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4122,7 +4122,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1280000,
+        'price': 12800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4139,7 +4139,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4156,7 +4156,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4173,7 +4173,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1600000,
+        'price': 1600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4190,7 +4190,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4207,7 +4207,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1850000,
+        'price': 18500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4227,7 +4227,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4244,7 +4244,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4261,7 +4261,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1340000,
+        'price': 13400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4278,7 +4278,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1750000,
+        'price': 17500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4298,7 +4298,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4315,7 +4315,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4332,7 +4332,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2850000,
+        'price': 28500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4352,7 +4352,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4369,7 +4369,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4386,7 +4386,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4403,7 +4403,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4423,7 +4423,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 980000,
+        'price': 9800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4440,7 +4440,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1050000,
+        'price': 10500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4457,7 +4457,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1120000,
+        'price': 11200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4474,7 +4474,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4494,7 +4494,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4511,7 +4511,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4528,7 +4528,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -4548,7 +4548,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1120000,
+        'price': 11200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -4565,7 +4565,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1220000,
+        'price': 12200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4582,7 +4582,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4599,7 +4599,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4616,7 +4616,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1650000,
+        'price': 16500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4633,7 +4633,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4653,7 +4653,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4670,7 +4670,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2650000,
+        'price': 26500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4687,7 +4687,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4704,7 +4704,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -4724,7 +4724,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4741,7 +4741,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4758,7 +4758,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4775,7 +4775,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
     ],
@@ -4795,7 +4795,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4600000,
+        'price': 4600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4812,7 +4812,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4650000,
+        'price': 46500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -4829,7 +4829,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4200000,
+        'price': 4200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -4852,7 +4852,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2890000,
+        'price': 28900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -4869,7 +4869,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -4886,7 +4886,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2680000,
+        'price': 26800,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -4906,7 +4906,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2150000,
+        'price': 21500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4923,7 +4923,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -4940,7 +4940,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -4960,7 +4960,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -4977,7 +4977,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -4997,7 +4997,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5017,7 +5017,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5037,7 +5037,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4750000,
+        'price': 47500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5054,7 +5054,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5400000,
+        'price': 5400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5074,7 +5074,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5091,7 +5091,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5108,7 +5108,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5128,7 +5128,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5145,7 +5145,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5162,7 +5162,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -5182,7 +5182,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -5202,7 +5202,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3850000,
+        'price': 38500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5219,7 +5219,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5236,7 +5236,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       }
     ],
@@ -5256,7 +5256,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3650000,
+        'price': 36500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5273,7 +5273,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5293,7 +5293,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5310,7 +5310,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5327,7 +5327,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5347,7 +5347,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5364,7 +5364,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4150000,
+        'price': 41500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5384,7 +5384,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5401,7 +5401,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5421,7 +5421,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5438,7 +5438,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5458,7 +5458,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5475,7 +5475,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3150000,
+        'price': 31500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5495,7 +5495,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5512,7 +5512,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3150000,
+        'price': 31500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5532,7 +5532,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5549,7 +5549,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4700000,
+        'price': 4700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5569,7 +5569,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5586,7 +5586,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5606,7 +5606,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5623,7 +5623,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5643,7 +5643,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5660,7 +5660,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5677,7 +5677,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -5694,7 +5694,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5731,7 +5731,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['Baggage not included'],
       }
     ],
@@ -5751,7 +5751,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5768,7 +5768,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7500000,
+        'price': 7500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -5785,7 +5785,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -5808,7 +5808,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -5825,7 +5825,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -5842,7 +5842,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5859,7 +5859,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5500000,
+        'price': 5500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -5879,7 +5879,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5896,7 +5896,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5913,7 +5913,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -5933,7 +5933,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4800000,
+        'price': 4800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5950,7 +5950,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5400000,
+        'price': 5400,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -5970,7 +5970,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -5987,7 +5987,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6400000,
+        'price': 6400,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6007,7 +6007,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6100000,
+        'price': 6100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6024,7 +6024,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5900000,
+        'price': 5900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6044,7 +6044,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6000000,
+        'price': 6000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6061,7 +6061,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6078,7 +6078,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7000000,
+        'price': 7000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6098,7 +6098,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6115,7 +6115,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6132,7 +6132,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6000000,
+        'price': 6000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6152,7 +6152,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5000000,
+        'price': 5000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6169,7 +6169,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6186,7 +6186,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5700000,
+        'price': 5700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6206,7 +6206,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5000000,
+        'price': 5000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6223,7 +6223,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5300000,
+        'price': 5300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6240,7 +6240,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5500000,
+        'price': 5500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6260,7 +6260,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4700000,
+        'price': 4700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6277,7 +6277,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5000000,
+        'price': 5000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6294,7 +6294,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6311,7 +6311,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6000000,
+        'price': 6000,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6331,7 +6331,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6348,7 +6348,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6368,7 +6368,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4400000,
+        'price': 4400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6385,7 +6385,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6402,7 +6402,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6422,7 +6422,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5000000,
+        'price': 5000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6439,7 +6439,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5650000,
+        'price': 56500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -6456,7 +6456,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6700000,
+        'price': 6700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6476,7 +6476,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4700000,
+        'price': 4700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6493,7 +6493,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 52150000,
+        'price': 521500,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6513,7 +6513,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6530,7 +6530,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3580000,
+        'price': 35800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6547,7 +6547,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7000000,
+        'price': 7000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6567,7 +6567,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6800000,
+        'price': 6800,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -6584,7 +6584,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6604,7 +6604,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6800000,
+        'price': 6800,
         'benefit': ['benefit1'.tr, 'benefit3'.tr, 'benefit4'.tr, 'benefit2'.tr],
       },
       {
@@ -6621,7 +6621,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6641,7 +6641,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6658,7 +6658,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6200000,
+        'price': 6200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6678,7 +6678,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4980000,
+        'price': 49800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6695,7 +6695,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6712,7 +6712,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6300000,
+        'price': 6300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6732,7 +6732,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5100000,
+        'price': 5100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6749,7 +6749,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5400000,
+        'price': 5400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6766,7 +6766,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -6803,7 +6803,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6820,7 +6820,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2750000,
+        'price': 27500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6837,7 +6837,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6700000,
+        'price': 6700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6857,7 +6857,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6874,7 +6874,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -6891,7 +6891,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7500000,
+        'price': 7500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -6911,7 +6911,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3250000,
+        'price': 32500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6928,7 +6928,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -6945,7 +6945,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6600000,
+        'price': 6600,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -6968,7 +6968,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -6985,7 +6985,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7002,7 +7002,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7036,7 +7036,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1590000,
+        'price': 15900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7053,7 +7053,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7073,7 +7073,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1850000,
+        'price': 18500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7090,7 +7090,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1850000,
+        'price': 18500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7107,7 +7107,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3280000,
+        'price': 32800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -7127,7 +7127,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7161,7 +7161,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7181,7 +7181,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7215,7 +7215,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7235,7 +7235,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7269,7 +7269,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7289,7 +7289,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7306,7 +7306,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7323,7 +7323,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7343,7 +7343,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7360,7 +7360,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7377,7 +7377,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7394,7 +7394,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7414,7 +7414,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7431,7 +7431,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7448,7 +7448,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7465,7 +7465,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7485,7 +7485,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7502,7 +7502,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7519,7 +7519,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7536,7 +7536,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7556,7 +7556,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7573,7 +7573,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7590,7 +7590,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7607,7 +7607,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7627,7 +7627,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7644,7 +7644,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7661,7 +7661,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7678,7 +7678,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7698,7 +7698,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7715,7 +7715,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7732,7 +7732,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7749,7 +7749,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7769,7 +7769,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7786,7 +7786,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7803,7 +7803,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7820,7 +7820,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7840,7 +7840,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7857,7 +7857,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7874,7 +7874,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7891,7 +7891,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -7911,7 +7911,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7928,7 +7928,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7945,7 +7945,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7962,7 +7962,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -7982,7 +7982,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -7999,7 +7999,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8016,7 +8016,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8033,7 +8033,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       }
     ],
@@ -8053,7 +8053,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8070,7 +8070,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8087,7 +8087,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8104,7 +8104,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8124,7 +8124,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8141,7 +8141,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8158,7 +8158,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8175,7 +8175,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8195,7 +8195,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8212,7 +8212,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8229,7 +8229,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8246,7 +8246,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8266,7 +8266,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8283,7 +8283,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8300,7 +8300,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8317,7 +8317,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8337,7 +8337,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8354,7 +8354,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8371,7 +8371,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8388,7 +8388,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8408,7 +8408,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8425,7 +8425,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8442,7 +8442,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8459,7 +8459,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8479,7 +8479,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8496,7 +8496,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8513,7 +8513,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8530,7 +8530,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6500000,
+        'price': 6500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -8553,7 +8553,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8570,7 +8570,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1280000,
+        'price': 12800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8587,7 +8587,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8604,7 +8604,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -8621,7 +8621,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8638,7 +8638,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1950000,
+        'price': 19500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -8658,7 +8658,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8675,7 +8675,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8692,7 +8692,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2850000,
+        'price': 28500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8709,7 +8709,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -8726,7 +8726,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8743,7 +8743,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -8763,7 +8763,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2120000,
+        'price': 21200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8780,7 +8780,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2220000,
+        'price': 22200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8797,7 +8797,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8814,7 +8814,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -8831,7 +8831,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8848,7 +8848,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -8868,7 +8868,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2220000,
+        'price': 22200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8885,7 +8885,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2320000,
+        'price': 23200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8902,7 +8902,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8919,7 +8919,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3050000,
+        'price': 30500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -8936,7 +8936,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8953,7 +8953,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -8973,7 +8973,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4450000,
+        'price': 44500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -8990,7 +8990,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4650000,
+        'price': 46500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9007,7 +9007,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4750000,
+        'price': 47500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9024,7 +9024,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5250000,
+        'price': 52500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9041,7 +9041,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4950000,
+        'price': 49500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9058,7 +9058,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5750000,
+        'price': 57500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9078,7 +9078,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9095,7 +9095,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9112,7 +9112,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9129,7 +9129,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9146,7 +9146,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9163,7 +9163,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9183,7 +9183,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9200,7 +9200,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9217,7 +9217,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9234,7 +9234,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9251,7 +9251,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9268,7 +9268,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9288,7 +9288,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9305,7 +9305,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9322,7 +9322,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9339,7 +9339,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9356,7 +9356,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9373,7 +9373,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9393,7 +9393,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9410,7 +9410,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9427,7 +9427,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9444,7 +9444,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9461,7 +9461,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9478,7 +9478,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9498,7 +9498,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9515,7 +9515,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9532,7 +9532,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9549,7 +9549,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9566,7 +9566,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9583,7 +9583,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9603,7 +9603,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2150000,
+        'price': 21500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9620,7 +9620,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2150000,
+        'price': 21500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9637,7 +9637,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9654,7 +9654,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2650000,
+        'price': 26500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9671,7 +9671,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9688,7 +9688,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4150000,
+        'price': 41500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9708,7 +9708,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9725,7 +9725,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9742,7 +9742,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9759,7 +9759,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2850000,
+        'price': 28500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9776,7 +9776,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9793,7 +9793,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9813,7 +9813,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2000000,
+        'price': 2000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9830,7 +9830,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2050000,
+        'price': 20500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9847,7 +9847,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2100000,
+        'price': 2100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9864,7 +9864,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9881,7 +9881,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9898,7 +9898,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -9918,7 +9918,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9935,7 +9935,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9952,7 +9952,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2750000,
+        'price': 27500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -9969,7 +9969,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -9986,7 +9986,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10003,7 +10003,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10023,7 +10023,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10040,7 +10040,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10057,7 +10057,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2850000,
+        'price': 28500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10074,7 +10074,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10091,7 +10091,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10108,7 +10108,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10128,7 +10128,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10145,7 +10145,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10162,7 +10162,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10179,7 +10179,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10196,7 +10196,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10213,7 +10213,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10233,7 +10233,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10250,7 +10250,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10267,7 +10267,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10284,7 +10284,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10301,7 +10301,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10318,7 +10318,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10338,7 +10338,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10355,7 +10355,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10372,7 +10372,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3050000,
+        'price': 30500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10389,7 +10389,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10406,7 +10406,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10423,7 +10423,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10443,7 +10443,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10460,7 +10460,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10477,7 +10477,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3150000,
+        'price': 31500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10494,7 +10494,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3600000,
+        'price': 3600,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10511,7 +10511,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10528,7 +10528,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10548,7 +10548,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10565,7 +10565,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10582,7 +10582,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3250000,
+        'price': 32500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10599,7 +10599,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10616,7 +10616,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3300000,
+        'price': 3300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10633,7 +10633,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4200000,
+        'price': 4200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10653,7 +10653,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10670,7 +10670,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3600000,
+        'price': 3600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10687,7 +10687,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10704,7 +10704,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4200000,
+        'price': 4200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10721,7 +10721,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10738,7 +10738,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5200000,
+        'price': 5200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10758,7 +10758,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10775,7 +10775,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10792,7 +10792,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10809,7 +10809,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4500000,
+        'price': 4500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10826,7 +10826,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10843,7 +10843,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5500000,
+        'price': 5500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10863,7 +10863,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5300000,
+        'price': 5300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10880,7 +10880,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5300000,
+        'price': 5300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10897,7 +10897,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5400000,
+        'price': 5400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10914,7 +10914,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 6800000,
+        'price': 6800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -10931,7 +10931,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5800000,
+        'price': 5800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10948,7 +10948,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 7800000,
+        'price': 7800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       }
     ],
@@ -10971,7 +10971,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1460000,
+        'price': 14600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -10988,7 +10988,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11005,7 +11005,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1480000,
+        'price': 14800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11022,7 +11022,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1650000,
+        'price': 16500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11039,7 +11039,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11056,7 +11056,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2050000,
+        'price': 20500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11076,7 +11076,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1000000,
+        'price': 1000,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11093,7 +11093,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11110,7 +11110,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1050000,
+        'price': 10500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11127,7 +11127,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11144,7 +11144,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11161,7 +11161,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2050000,
+        'price': 20500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11181,7 +11181,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2200000,
+        'price': 2200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11198,7 +11198,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11215,7 +11215,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11232,7 +11232,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11249,7 +11249,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11266,7 +11266,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3700000,
+        'price': 3700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11286,7 +11286,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11303,7 +11303,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11320,7 +11320,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11337,7 +11337,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11354,7 +11354,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11371,7 +11371,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11391,7 +11391,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11408,7 +11408,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11425,7 +11425,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11442,7 +11442,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11459,7 +11459,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11476,7 +11476,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11496,7 +11496,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11513,7 +11513,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11530,7 +11530,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3850000,
+        'price': 38500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11547,7 +11547,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11564,7 +11564,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4300000,
+        'price': 4300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11581,7 +11581,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5300000,
+        'price': 5300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11601,7 +11601,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11618,7 +11618,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3500000,
+        'price': 3500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11635,7 +11635,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3450000,
+        'price': 34500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11652,7 +11652,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3600000,
+        'price': 3600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11669,7 +11669,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3900000,
+        'price': 3900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11686,7 +11686,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4900000,
+        'price': 4900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11706,7 +11706,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11723,7 +11723,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11740,7 +11740,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11757,7 +11757,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11774,7 +11774,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11791,7 +11791,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4400000,
+        'price': 4400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11811,7 +11811,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11828,7 +11828,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11845,7 +11845,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11862,7 +11862,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11879,7 +11879,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3400000,
+        'price': 3400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -11896,7 +11896,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4400000,
+        'price': 4400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -11916,7 +11916,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11933,7 +11933,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -11950,7 +11950,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11967,7 +11967,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -11984,7 +11984,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3000000,
+        'price': 3000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12001,7 +12001,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4000000,
+        'price': 4000,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12021,7 +12021,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2600000,
+        'price': 2600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12038,7 +12038,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12055,7 +12055,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2650000,
+        'price': 26500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12072,7 +12072,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12089,7 +12089,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3100000,
+        'price': 3100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12106,7 +12106,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12126,7 +12126,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12143,7 +12143,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12160,7 +12160,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2400000,
+        'price': 2400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12177,7 +12177,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2650000,
+        'price': 26500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12194,7 +12194,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2850000,
+        'price': 28500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12211,7 +12211,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3850000,
+        'price': 38500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12231,7 +12231,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12248,7 +12248,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12265,7 +12265,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2500000,
+        'price': 2500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12282,7 +12282,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2750000,
+        'price': 27500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12299,7 +12299,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2950000,
+        'price': 29500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12316,7 +12316,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3950000,
+        'price': 39500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12336,7 +12336,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12353,7 +12353,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12370,7 +12370,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2300000,
+        'price': 2300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12387,7 +12387,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12404,7 +12404,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2750000,
+        'price': 27500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12421,7 +12421,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3750000,
+        'price': 37500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12441,7 +12441,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12458,7 +12458,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12475,7 +12475,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12492,7 +12492,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12509,7 +12509,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1700000,
+        'price': 1700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12526,7 +12526,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2700000,
+        'price': 2700,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12546,7 +12546,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12563,7 +12563,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12580,7 +12580,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12597,7 +12597,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12614,7 +12614,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1800000,
+        'price': 1800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12631,7 +12631,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2800000,
+        'price': 2800,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12651,7 +12651,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1400000,
+        'price': 1400,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12668,7 +12668,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12685,7 +12685,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12702,7 +12702,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1600000,
+        'price': 1600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12719,7 +12719,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1900000,
+        'price': 1900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12736,7 +12736,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2900000,
+        'price': 2900,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12756,7 +12756,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1050000,
+        'price': 10500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12773,7 +12773,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12790,7 +12790,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1100000,
+        'price': 1100,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12807,7 +12807,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12824,7 +12824,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1650000,
+        'price': 16500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12841,7 +12841,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2250000,
+        'price': 22500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12861,7 +12861,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12878,7 +12878,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -12895,7 +12895,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1200000,
+        'price': 1200,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12912,7 +12912,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12929,7 +12929,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1750000,
+        'price': 17500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -12946,7 +12946,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2350000,
+        'price': 23500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -12966,7 +12966,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1250000,
+        'price': 12500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -12983,7 +12983,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -13000,7 +13000,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1300000,
+        'price': 1300,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13017,7 +13017,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13034,7 +13034,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1850000,
+        'price': 18500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -13051,7 +13051,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2450000,
+        'price': 24500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -13071,7 +13071,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1450000,
+        'price': 14500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13088,7 +13088,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -13105,7 +13105,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1500000,
+        'price': 1500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13122,7 +13122,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1650000,
+        'price': 16500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13139,7 +13139,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1950000,
+        'price': 19500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -13156,7 +13156,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2550000,
+        'price': 25500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -13176,7 +13176,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1050000,
+        'price': 10500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13193,7 +13193,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 950000,
+        'price': 9500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -13210,7 +13210,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1150000,
+        'price': 11500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13227,7 +13227,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1350000,
+        'price': 13500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13244,7 +13244,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 1550000,
+        'price': 15500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -13261,7 +13261,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 2050000,
+        'price': 20500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
@@ -13281,7 +13281,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3600000,
+        'price': 3600,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13298,7 +13298,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3200000,
+        'price': 3200,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       },
       {
@@ -13315,7 +13315,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3650000,
+        'price': 36500,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13332,7 +13332,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 3800000,
+        'price': 3800,
         'benefit': ['benefit1'.tr],
       },
       {
@@ -13349,7 +13349,7 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 4100000,
+        'price': 4100,
         'benefit': ['benefit1'.tr, 'benefit2'.tr, 'benefit3'.tr],
       },
       {
@@ -13366,11 +13366,12 @@ Map<String, dynamic> destinationTicketData = {
         'refundable': true,
         'insurance': true,
         'vat': 0.11,
-        'price': 5150000,
+        'price': 51500,
         'benefit': ['benefit1'.tr, 'benefit2'.tr],
       }
     ],
   },
 };
+
 
 
