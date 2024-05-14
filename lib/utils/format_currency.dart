@@ -11,7 +11,7 @@ String priceFormat(dynamic price) {
 String priceFormatWithoutSymbol(dynamic price) {
   return NumberFormat.currency(
     locale: 'id_ID',
-    symbol: 'TK',
+    symbol: 'TK ',
     decimalDigits: 0,
   ).format(price);
 }

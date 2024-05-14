@@ -51,7 +51,7 @@ class _AppState extends State<App> {
       designSize: const Size(375, 812),
       builder: (context, child) {
         return GetMaterialApp(
-          title: 'Airpedia',
+          title: 'AIRBD',
           theme: AppStyle.appTheme(0xFF5C40CC, Colors.white),
           builder: (context, child) {
             return GestureDetector(

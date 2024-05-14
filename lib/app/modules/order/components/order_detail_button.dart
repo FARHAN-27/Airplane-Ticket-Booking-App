@@ -43,7 +43,7 @@ class OrderDetailButton extends GetView<OrderController> {
                   onTap: () {
                     showPopUpInfo(
                       title: 'information'.tr,
-                      description: 'underDevelopment'.tr,
+                      description: '..'.tr,
                     );
                   },
                   child: CardApp(

@@ -57,7 +57,7 @@ class _SplashScreenViewState extends State<SplashScreenView> {
               child: Image.asset(AppAsset.logo('logo_app.png')),
             ),
             Text(
-              'AIRPEDIA',
+              'AIRBD',
               style: TextStyles.title.copyWith(
                 color: Colors.white,
                 letterSpacing: 8.w,

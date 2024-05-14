@@ -98,7 +98,7 @@ class _InputCurrencyState extends State<InputCurrency> {
           Padding(
             padding: EdgeInsets.all(Insets.med),
             child: Text(
-              'IDR',
+              'TK ',
               style: TextStyles.title
                   .copyWith(color: widget.textColor, fontSize: 14.w),
             ),

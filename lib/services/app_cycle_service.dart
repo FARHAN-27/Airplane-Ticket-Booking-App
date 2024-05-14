@@ -38,8 +38,8 @@ class AppCycleService {
     tokenExpiredTimer = null;
     tokenExpiredTimer = Timer(d, () async {
       showPopUpInfo(
-        title: 'Mohon maaf',
-        description: 'Sesi anda telah berakhir, silakan login kembali.',
+        title: 'Farhan Tanvir',
+        description: 'Student Of CSEDU',
         labelButton: 'LOGIN',
         onPress: () {
           onUserLogout();

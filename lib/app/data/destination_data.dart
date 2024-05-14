@@ -4,7 +4,7 @@ List<Map<String, dynamic>> recommendedDestination = [
     'airport_destination_code': 'cox',
     'airport_destination_location': 'Coxs Bazar',
     'airport_destination_name': 'Cox\'s Bazar Airport',
-    'country': 'Banladesh',
+    'country': 'Banladesh ',
     'destination_name': 'Coxs Bazar',
     'image': 'img_destination_Coxs.jpeg',
     'interests': [

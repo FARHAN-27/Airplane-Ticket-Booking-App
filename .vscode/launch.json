@@ -1,7 +1,5 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
     "version": "0.2.0",
     "configurations": [
         {
@@ -77,14 +75,5 @@
 			]
         }
     ]
-    
-    // APK
-    // flutter build apk --split-per-abi --flavor development -t lib/main_development.dart --release
-    // flutter build apk --split-per-abi --flavor staging -t lib/main_staging.dart --release
-    // flutter build apk --split-per-abi --flavor production -t lib/main_production.dart --release
 
-    // AppBundle
-    // flutter build appbundle --flavor development -t lib/main_development.dart
-    // flutter build appbundle --flavor staging -t lib/main_staging.dart
-    // flutter build appbundle --flavor production -t lib/main_production.dart
 }
