@@ -2,9 +2,6 @@
 
 
 
-this is out 3-1 project 
-with my teammate asef sami chowdhury 
-we use flutter framewrok to build our app 
-
-to run:
-flutter run --flavor development -t lib/main_development.dart
+This repository contains the code for our 3-1 project, 
+developed by me and my teammate asef sami, using the Flutter framework to build our app. 
+This is a booking airline ticket app where users can easily browse flights, book tickets, and manage their reservations seamlessly.
